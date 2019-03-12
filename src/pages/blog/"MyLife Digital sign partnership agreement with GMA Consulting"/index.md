@@ -1,0 +1,21 @@
+---
+layout: post
+title: "MyLife Digital sign partnership agreement with GMA Consulting"
+author: Debs
+date: 2017-11-21T14:07:20+00:00
+categories: ["Ben Grey", "Consentric Permissions", "Data Protection", "Gavin Lewis", "GDPR", "GMA Consulting", "Holly Walker", "Opinions", "Partners", "partnership", "Permissions"]
+slug: mylife-digital-sign-partnership-agreement-gma-consulting
+draft: false
+meta_title: "MyLife Digital sign partnership agreement with GMA Consulting"
+---
+
+MyLife Digital (MLD) is pleased to add [GMA Consulting (GMA)](http://www.gmaconsulting.com/SitePages/Home.aspx) to their partnership programme with an agreement to distribute each other’s General Data Protection Regulation (GDPR) solutions to new and existing customers. Under this partnership,  GMA will offer Consentric Permissions to its customers,  and MLD will use and add GMA’s [GDPR Portal](https://www.gdpr-portal.com/) to its partner portfolio. GMA’s GDPR Portal is a cloud based solution that provides small and medium sized organisations with a cost-effective way to manage their compliance with the new data protection legislation. It holds a suite of easy-to-use tools which enable the recording of:
+
+*   The types of data, e.g. email addresses, they process and which ones are sensitive
+*   How personal data is collected and associated policies and procedures such as recording consent
+*   Where data is stored and related policies around security, retention and deletion
+*   Who the data is shared with and if there are any international transfers
+*   Subject Access Requests (SARs) and the actions and timelines for the response to the SAR
+*   Breach notifications, actions and timelines for notifying the regulator and, where necessary, impacted individuals.
+
+Holly Walker, Compliance Manager at MyLife Digital said “We decided to use GMA’s GDPR Portal because of its user-friendly interface that is 100% tailored to capture how our business handles data under GDPR. It provides us with the ability to show our data landscape in a clear dashboard-style view in whichever perspective is needed, by data category, data collection method or where the data is stored. We are really excited to be working with GMA, not only as a MyLife Digital partner, but for our GDPR project too." GDPR Portal will work well alongside MLD’s Consentric Permissions solution for organisations. Permissions enshrines the relevant GDPR articles and acts as the single source of truth for consents and permissions across all organisational systems, and processes. Using open API’s and secure cloud connectivity MLD developed a solution which has both a self-service portal and a contact centre portal, which can be corporate branded, and adhere to the GDPR principles of accountability for organisations (GDPR, Article 5). Organisations can promote transparency around their customers’ data and what it can be used for. Permissions facilitates this by controlling and displaying explicit permissions settings for individual consumers. Gavin Lewis, Head of Alliances at MLD says “Understanding the existing landscape when it comes to personal data across your organisation can be a bit of a minefield, with silos of information across locations, departments and even systems. By bringing GDPR Portal into play organisations can get to grips with what we call the 5W’s permission matrix much quicker. Something you will need to facilitate ahead of May 2018 and before you can integrate your systems with Consentric Permissions. We are pleased to add GMA Consulting to our growing partnership programme.” Ben Grey, the owner of GMA and founder of GDPR Portal adds “We are extremely pleased to have forged this partnership with MyLife Digital and to add Consentric Permissions to our portfolio of GDPR solutions. Consentric complements GDPR Portal extremely well. We are also delighted that MyLife Digital have chosen to use GDPR Portal themselves for documenting how they process personal data. Having an organisation with the credentials of MyLife Digital select our platform is a considerable achievement for us.” Using GDPR Portal and Consentric Permissions will help support an organisation’s compliance towards GDPR ahead of the 25th May 2018 enforcement deadline.

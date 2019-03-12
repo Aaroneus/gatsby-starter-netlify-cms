@@ -1,0 +1,12 @@
+---
+layout: post
+title: "GDPR: Checklist Summary of GDPR Software"
+author: george_trick
+date: 2018-04-11T12:19:39+01:00
+categories: ["GDPR", "gdpr 2018", "GDPR Compliance", "gdpr compliance checklist", "gdpr consent gdpr deadline gdpr may 2018 gdpr privacy notice gdpr consultant", "gdpr data protection officer", "gdpr principles", "gdpr summary", "General Data Protection Regulation", "Opinions", "what is gdpr"]
+slug: gdpr-checklist-summary-of-gdpr-software
+draft: false
+meta_title: "GDPR: Checklist Summary of GDPR Software"
+---
+
+A checklist summary of Consentric's GDPR compliance Platform. Explaining the principles and requirements for becoming GDPR compliant. This overview will give you guidance as to how Consentric's GDPR compliance software can help your business gain consent and other lawful bases for data processing. \[embed\]https://www.youtube.com/watch?v=Qq6wwhDd1NU&list=PLBHKZ8Ld7vIO8d2wfyFRjo4B8Yg79hLaa\[/embed\] Now more than ever, strong governance of personal data is a critical part of doing business today. Not only to build trust but also to avoid significant reputational damage and potential fines. Consentric is a cloud platform that gives you that governance. And it can do so across your organisation in a way that is transparent, accountable and empowering to both you and your customers. Consentric was launched to support GDPR compliance, ensuring organisations can manage all 6 data processing justifications under article 6, paragraph 1, including Legitimate Interest and Consent. It makes sure customers always know what personal data you hold on them and why. And importantly, it gives them the power to exercise their enhanced rights under the GDPR. They will have the power to object to the processing of their data; they can request access to their data; they will have the authority to activate an erasure request. And they will have the power to give consent over the use of their data. In short, this gives them the power to make the choices they want. And that results in a stronger relationship with you, the controller of their data.  But there’s another benefit for you - because all this activity is captured in an immutable audit trail, it demonstrates organisational accountability - which is required under the GDPR.

@@ -1,0 +1,45 @@
+---
+layout: post
+title: "GDPR Data Processor vs Data Controller"
+author: george_trick
+date: 2018-07-24T08:03:35+01:00
+categories: ["Opinions"]
+slug: gdpr-data-processor-data-controller
+draft: false
+meta_title: "GDPR Data Processor vs Data Controller"
+---
+
+To ensure maximum protection for EU citizens, the new General Data Protection Regulation (GDPR) defines two roles into which every business handling personal data falls. Somewhat confusingly, these new functions have the same names as those originally implemented under the UK’s 1998 Data Protection Act. It is important to realise that there are subtle differences between the roles since GDPR came into force however, so it pays to look at the issue with fresh eyes. The distinction between controller and processor has become increasingly blurred as companies share personal data with third parties for services like marketing and cloud data storage. Regardless of the complexity, your business needs to know under which circumstances it classifies as a controller, processor, or both. Only then can you meet your specific data protection obligations. _NOTE: The GDPR applies to any business worldwide that controls or processes personal data belonging to EU citizens. It is vital that senior decision makers worldwide properly understand the GDPR data processor vs data controller distinction._
+
+#### **What is a GDPR Data Controller?**
+
+Ultimately the controller is responsible for defining how data is processed, whether they do that work themselves or outsource to a third-party processor. At the most basic level, the GDPR data controller is the “custodian” of the data. Still unsure? If the answer to the following question is “yes”, you are a data controller; “_Do you decide how and why personal data is collected from living people_? Collecting personal data – such as names, email addresses and phone numbers – makes you a data controller. _NOTE: Your business never actually “owns” any personal data. You are given permission to use personal information by the individual, and they have the legal right to revoke access at any time._
+
+#### **_What are the Data Controller Responsibilities?_**
+
+Because of the new sensitivities, data controllers must now prove that they have a legal basis for collecting and storing personal data. And the rules surrounding tha collection of data have changed too too – the data controller must appoint a Data Protection Officer (in to oversee the protection of personal data details being collected, and how it is to be used. Without a legally defensible reason, DCs must _not_ collect personal data. As a data controller, your business is also responsible for managing disclosure – have your contacts agreed to sharing data with your partners? Is that sharing legal? And what are your statutory obligations for sharing data with law enforcement and regulatory bodies? The data subject retains virtually complete ownership of the data you hold, except for a very small number of exemptions regarding national security, public security, the protection of judicial independence and proceedings, and the enforcement of civil law matters. Articles 85 to 91 of the GDPR also outline additional restrictions for handling personal data under specific conditions, including:
+
+*   Information related to freedom of expression.
+*   Public access to official documents.
+*   National identification numbers (including National Insurance or passport numbers).
+*   Employee data.
+*   Obligations of secrecy.
+*   Data held by churches and religious associations.
+
+As well as having to store data securely, controllers have two other specific obligations to subjects. First, subjects have the right to request a complete export of all the data your business holds on them. Second, they have a right to request that you delete their data, _within a reasonable timeframe_ (thought to be 30 days). As a GDPR data controller, you have a responsibility to (there are some specific exceptions regarding the right to erasure, details of which can be found [here](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-erasure/)). Recital 87 of the GDPR specified that you must also establish a mechanism for reporting any kind of data loss or theft event. The Information Commissioner’s Office (ICO) must be notified of a breach within 72 hours – even if you remain unsure of the full scale of the event. The controller is also responsible for reporting the action – or inaction – of a processor that leads to a personal data breach. You are also expected to inform the individuals affected without delay if exposure of personal data ‘is likely to result in a high risk to their rights and freedoms’. Even if you initially decide the risk to individuals’ freedoms is relatively low, the ICO could still compel you to notify them at a later date. Where a breach is detected, the controller is required to keep a complete record of the of the facts surrounding the incident. They will also need to specify the effects of the infringement, and any remedial action taken _IMPORTANT: A data controller is still responsible for protecting personal information, even if it is passed on to a data processor for actioning. In fact, your business actually acquires additional responsibilities for ensuring that the processor also fully complies with GDPR when handling personal data._
+
+#### **What is a GDPR Data Processor?**
+
+A data processor handles personal data, but they do so on behalf of another party – the data controller. They cannot use this information for their own purposes. Consider a hosted marketing platform like ‘ConvertKit; the service stores a client’s mailing list and uses those details to send messages to subscribers. A data processor never uses the mailing list themselves, but they do have some legal responsibility for keeping it safe.
+
+#### **_What are the Data Processor Responsibilities?_**
+
+The GDPR data processor is expected to protect any personal data they are entrusted with – even if ultimate responsibility for protecting information rests with the data controller. To help mitigate their risks, the controller must issue the processor with a Data Processing Agreement, a written contract that imposes mandatory conditions according to GDPR requirements. The agreement will also outline the specific activities which are permitted when working with personal data, and the security employed to protect that information from loss or theft. The processor must not use or process data in any way that falls outside the term of the agreement. They will also be banned from using sub-processors unless specifically permitted – which may cause problems for processors who use also use hosted systems from third parties. The data processor must not keep personal data information for any longer than is strictly necessary. Once processing has been completed, personal data will need to be returned to the controller and permanently removed from the processor’s IT systems. They will however be expected to maintain records of the data processing activities undertaken, which must be made available to the Information Commissioner’s Office (or appropriate national supervisory body) as and when required. data processors also have a responsibility for reporting breaches and data loss events to the ICO – again within 72 hours of becoming aware of an incident.
+
+#### **Data Controller, Data Processor, or Something Else?**
+
+As suggested above, it is possible for an organisation to be both controller and processor simultaneously. A company providing data services will almost certainly fit into both categories for instance. By handling data for their customers, they become a processor. And by maintaining their own employee records, they classify as a controller. This means that any business in the European Union will be treated as a data controller and must act accordingly. Similarly, any business outside the EU that collects and stores sensitive personal data belonging to European citizens will also classify as a data controller – whether their local laws apply similar safeguards or not.
+
+#### **Controller, Processor, Both – One Key Consideration**
+
+Whether your business is a controller, a processor or a combination of the two, there is a consideration of even greater importance; what personal data do you hold, where is it stored, and can you prove that it is being processed lawfully? If your business can answer these fundamental questions, and apply appropriate safeguards using those insights, you will find it much easier to achieve and maintain GDPR compliance. For more help and advice on this process – and how Consentric can help to automate compliance auditing – please get in [touch](https://consentric.io/contact-us).
