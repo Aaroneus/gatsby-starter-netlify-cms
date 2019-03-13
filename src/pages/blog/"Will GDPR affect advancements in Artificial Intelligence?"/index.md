@@ -1,4 +1,5 @@
 ---
+templateKey: blog-post
 layout: post
 title: "Will GDPR affect advancements in Artificial Intelligence?"
 author: george_trick
